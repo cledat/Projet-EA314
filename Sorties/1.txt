@@ -1,0 +1,7 @@
+<xarray.DataArray 'diesel' (time: 8735)>
+array([4.28700468, 3.28700468, 4.45448213, ..., 0.        , 0.        ,
+       2.56928513])
+Coordinates:
+  * time     (time) datetime64[ns] 2000-06-30T22:00:00 ... 2001-06-29T20:00:00
+Attributes:
+    description:  Demande en MWH
