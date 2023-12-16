@@ -1,0 +1,9 @@
+{'unserved_energy_cost': 3000, 'diesel_variable_cost': 177, 'solar_cost': 747000, 'wind_cost': 1300000, 'diesel_cost': 1050505, 'storage_power_cost': 0, 'storage_energy_cost': 1167144, 'solar_om_cost': 11000, 'wind_om_cost': 40000, 'diesel_om_cost': 101000, 'nvp': 12.46, 'CO2_cost': 500}
+ 
+ [Solar,Wind,Diesel,Energy] 
+ 
+ : [37.51803763 80.80808074 17.38383848 14.40692666]
+ 
+ Couts du résultat optimisé 
+ 
+ : {'total_cost_2021': 268.34687237516135, 'total_cost_prod': 151.34516632151923, 'total_cost_om_2021': 5.400789329728505, 'total_fuel_cost_2021': 3.863283216913686, 'total_lole_cost_2021': 0.12611252989409474, 'LCOE': 165.17495704949349, 'CO2 Cost': 8.392273428832274, 'emissions co2': 16784.546857664547}

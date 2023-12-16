@@ -1,0 +1,7 @@
+[Solar,Wind,Diesel,Energy] 
+ 
+ : [27.090303   76.92307888 18.96153841 12.8076924 ]
+ 
+ Couts du résultat optimisé 
+ 
+ : {'total_cost_2021': 270.867941134039, 'total_cost_prod': 146.96488809706588, 'total_cost_om_2021': 5.533844594973719, 'total_fuel_cost_2021': 4.381424670254264, 'total_lole_cost_2021': 0.028795986535504133, 'LCOE': 166.726744928669, 'CO2 Cost': 7.614272477797806, 'emissions co2': 19035.681194494515}
